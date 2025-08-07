@@ -1,0 +1,12 @@
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.csproj.AssemblyReference.cache
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.AssemblyInfoInputs.cache
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.AssemblyInfo.cs
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.csproj.CoreCompileInputs.cache
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\bin\Debug\netstandard2.1\SexMod.deps.json
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\bin\Debug\netstandard2.1\SexMod.dll
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\bin\Debug\netstandard2.1\SexMod.pdb
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.dll
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.pdb
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\bin\Debug\netstandard2.1\CustomEmotesAPI.dll
+C:\Users\darkw\source\repos\Sex Plugin\SexMod\obj\Debug\netstandard2.1\SexMod.csproj.Up2Date
