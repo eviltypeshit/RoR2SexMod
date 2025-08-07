@@ -1,0 +1,12 @@
+﻿{
+	"name": "SexMod",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/eviltypeshit/RoR2SexMod",
+	"description": "A framework for making characters have sex.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-HookGenPatcher-1.2.3",
+		"MetrosexualFruitcake-CustomEmotesAPI-2.10.5"
+	]
+	
+}
