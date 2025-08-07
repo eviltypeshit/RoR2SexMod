@@ -17,6 +17,7 @@ All submitted animations MUST be looping and interact well with the other animat
 
 ## SexMod
 | Method/Attribute | Summary |
+| :--: | :--: |
 | Method: Sex | Makes two entities have sex, freezes all enemies in place |
 | Method: AddSexAnimation | Adds an animation to the catalog of animations. |
 | Attribute: sexAnimations | List of all stored animations |
@@ -24,18 +25,21 @@ All submitted animations MUST be looping and interact well with the other animat
 
 ### Sex
 | Parameter | Summary |
+| :--: | :--: |
 | GameObject player | GameObject corresponding to the player or other entity, eg. CommandoBody(Copy) |
 | GameObject mate | GameObject player will have sex with, eg. LemurianBody(Copy) |
 | Boolean mateIsTop | True if mate is topping (penetrating) the player |
 
 ### AddSexAnimation
 | Parameter | Summary |
+| :--: | :--: |
 | SexAnimation animation | animation to add |
 | (optional) AnimationClipParams topParams | Parameters for loading the top animation. Unneeded if already loaded animations through CustomEmotesAPI.AddCustomAnimation |
 | (optional) AnimationClipParams bottomParams | Parameters for loading the bottom animation. Unneeded if already loaded animations through CustomEmotesAPI.AddCustomAnimation |
 
 ## SexAnimation
 | Method/Attribute | Summary |
+| :--: | :--: |
 | Method: isMatchedTypes | checks if inserted types match the types of the animation. If either animation or inserted type is Global, that will be counted as equivalent. |
 | Method: SexAnimation | Creates a SexAnimation object |
 | Attribute: topName | Name for the topping animation, what you named the clip in unity when you exported it. NOT the file (eg. run.anim), the name of the animation (eg. Run) |
