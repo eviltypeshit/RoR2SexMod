@@ -10,6 +10,7 @@ All submitted animations MUST be looping and interact well with the other animat
 # Documentation
 
 | Class/Enum | Summary |
+| :--: | :--: |
 | Class: SexAnimation | Stores two animations: one for the top and one for the bottom |
 | Enum: CharacterType | Type of character the animation can be used for. CharacterType.Global means it can be used universally, CharacterType.Player means it can be used on the player. Otherwise, just use the name of the entity. |
 | Class: SexMod | Contains all the methods for actually letting sex happen |
